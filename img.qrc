@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/back">
+        <file>res/eng/background.png</file>
+        <file>res/eng/p0.png</file>
+        <file>res/eng/p1.png</file>
+        <file>res/eng/p2.png</file>
+    </qresource>
+    <qresource prefix="/red">
+        <file>res/eng/r00.png</file>
+        <file>res/eng/r01.png</file>
+        <file>res/eng/r02.png</file>
+        <file>res/eng/r03.png</file>
+        <file>res/eng/r04.png</file>
+        <file>res/eng/r05.png</file>
+        <file>res/eng/r06.png</file>
+        <file>res/eng/r07.png</file>
+        <file>res/eng/r08.png</file>
+        <file>res/eng/r09.png</file>
+        <file>res/eng/r10.png</file>
+        <file>res/eng/r11.png</file>
+    </qresource>
+    <qresource prefix="/blue">
+        <file>res/eng/b00.png</file>
+        <file>res/eng/b01.png</file>
+        <file>res/eng/b02.png</file>
+        <file>res/eng/b03.png</file>
+        <file>res/eng/b04.png</file>
+        <file>res/eng/b05.png</file>
+        <file>res/eng/b06.png</file>
+        <file>res/eng/b07.png</file>
+        <file>res/eng/b08.png</file>
+        <file>res/eng/b09.png</file>
+        <file>res/eng/b10.png</file>
+        <file>res/eng/b11.png</file>
+    </qresource>
+</RCC>
